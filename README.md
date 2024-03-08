@@ -10,7 +10,7 @@
 
 ## Stats 
 <div>
-<a href="https://github.com/Bruno-Ambrosio">
+<a href="https://github.com/RodrigoSFS">
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSFS&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSFS&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
