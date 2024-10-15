@@ -4,7 +4,7 @@
 </h1>
 
 - 📍 I live in Paraná, Brazil.
-- 💻 I'm a technologist in Analysis and Systems Development.
+- 💻 I'm a Technologist in Analysis and Systems Development.
 - 🌱 I'm aways colaborating in projects and making my own.
 - 🎯 My current goal is to become a full stack developer.
 
